@@ -1,0 +1,9 @@
+1. for: looping for several times
+   while: keep looping back to the start until the test become false
+2. break: exit from a loop
+   continue: jump to the top of a loop
+3. else will be used in the end of the loop when the loop exit normally.
+4. counter-based loop:
+   - while...
+   - loop in range: for i in range()
+5. range = limitation
