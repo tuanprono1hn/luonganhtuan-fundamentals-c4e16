@@ -1,0 +1,2 @@
+1. Nested list is the list within another list.
+2. Yes, it can. The elements of a list don't have to be the same type.
